@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: produto_controller.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 from models.produto import Produto
 
 class ProdutoController:
