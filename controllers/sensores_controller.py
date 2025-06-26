@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: sensores_controller.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class SensorController:
     @staticmethod
     def avaliar(presenca=False, luminosidade=0, temperatura=0):
