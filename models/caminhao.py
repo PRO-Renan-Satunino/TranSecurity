@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: caminhao.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Caminhao:
     def __init__(self, placa, modelo, ano):
         self.placa = placa
