@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: transporte.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Transporte:
     def __init__(self, placa, motorista, tipo_veiculo):
         self.placa = placa
