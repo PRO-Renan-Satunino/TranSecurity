@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: cliente.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Cliente:
     def __init__(self, cnpj, nome, endereco):
         self.cnpj = cnpj
