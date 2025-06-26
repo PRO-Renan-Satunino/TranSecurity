@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: seguranca.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class EventoSeguranca:
     def __init__(self, data_hora, descricao):
         self.data_hora = data_hora
