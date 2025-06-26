@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: menu_principal_view.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 from views.saidas_view import SaidaView
