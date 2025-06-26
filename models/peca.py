@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: peca.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Peca:
     def __init__(self, codigo, nome, fornecedor, preco):
         self.codigo = codigo
