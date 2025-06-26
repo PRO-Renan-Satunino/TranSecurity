@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: generico_controller.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class GenericoController:
     def __init__(self, arquivo, modelo):
         self.arquivo = arquivo
