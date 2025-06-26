@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: usuario.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Usuario:
     def __init__(self, cpf, nome, funcao):
         self.cpf = cpf
