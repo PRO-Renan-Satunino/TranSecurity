@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: fornecedor.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Fornecedor:
     def __init__(self, cnpj, nome, contato):
         self.cnpj = cnpj
