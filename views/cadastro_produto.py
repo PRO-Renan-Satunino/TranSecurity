@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: cadastro_produto.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 from controllers.produto_controller import ProdutoController
