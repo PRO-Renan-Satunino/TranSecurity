@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: saida.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Saida:
     def __init__(self, cliente, carga, destino, hora_saida, hora_retorno, km_ini, km_fim):
         self.cliente = cliente
