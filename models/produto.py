@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: produto.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Produto:
     def __init__(self, codigo, descricao, peso):
         self.codigo = codigo
