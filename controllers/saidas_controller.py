@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: saidas_controller.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class SaidaController:
     def __init__(self, arquivo="data/saidas.txt"):
         self.arquivo = arquivo
