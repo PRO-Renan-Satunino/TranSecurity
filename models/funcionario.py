@@ -1,3 +1,10 @@
+"""
+Nome do arquivo: funcionario.py
+Equipe: Renan, Átila, Caio, Wagner, Adriano
+Turma: B91210
+Semestre: 2025.1
+"""
+
 class Funcionario:
     def __init__(self, cpf, nome, cargo):
         self.cpf = cpf
